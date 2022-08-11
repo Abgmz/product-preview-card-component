@@ -12,3 +12,7 @@ This challenge is created with:
   - _Grid_
   - _Flexbox_
   - _Media Queries_
+
+Repository [link here](https://abgmz.github.io/product-preview-card-component/)
+
+Live view [here](https://abgmz.github.io/product-preview-card-component/)
